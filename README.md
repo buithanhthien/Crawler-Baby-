@@ -11,5 +11,5 @@ This is a crawler but just in level junior.
 `node index.js [url]`
 ***
 * **Example:**
- `node index.js `https://www.slideshare.net/search/slideshow?searchfrom=header&q=nodejs
+ `node index.js https://www.slideshare.net/search/slideshow?searchfrom=header&q=nodejs`
 ***
