@@ -11,4 +11,4 @@ This is a crawler but just in junior.
 `node index.js [url]`
 
 *Example:*
-node index.js **https://www.slideshare.net/JuliaCherniak/the-working-architecture-of-nodejs-applications-viktor-turskyi?qid=262966bc-fcce-4605-b304-4cce2b0521ec&v=&b=&from_search=1**
+`node index.js https://www.slideshare.net/JuliaCherniak/the-working-architecture-of-nodejs-applications-viktor-turskyi?qid=262966bc-fcce-4605-b304-4cce2b0521ec&v=&b=&from_search=1`
